@@ -193,7 +193,7 @@ RoyalFeast/
 
 **K. Tharachand Chowdary** — MERN Stack Developer.
 
-- GitHub: [thorachand3](https://github.com/tharachand3)
+- GitHub: [tharachand3](https://github.com/tharachand3)
 - Email: [tharachandchowdary@gmail.com](mailto:tharachandchowdary@gmail.com)
 
 If you found RoyalFeast useful, a star on the repository would be appreciated.
